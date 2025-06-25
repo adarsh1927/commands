@@ -10,5 +10,10 @@ useful terminal, Python, Node (npm) rare commands you may be need some where
 > pip install --upgrade pip setuptools
 > ```  
 >> upgrade setup tool
+
+> ```terminal
+> pip freeze | xargs pip uninstall -y
+> ```
+
 ---
 # NODE and NPM
