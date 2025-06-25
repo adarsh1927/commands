@@ -6,12 +6,12 @@ useful terminal, Python, Node (npm) rare commands you may be need some where
 ---
 # PYTHON
 
-> ```terminal
+* > ```terminal
 > pip install --upgrade pip setuptools
 > ```  
 >> upgrade setup tool
 
-> ```terminal
+* > ```terminal
 > pip freeze | xargs pip uninstall -y
 > ```
 
