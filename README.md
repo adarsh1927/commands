@@ -1,2 +1,4 @@
 # commands
-usefull terminal, python, node(npm) commands
+useful terminal, Python, Node (npm) commands
+
+---
