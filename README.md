@@ -9,7 +9,7 @@ useful terminal, Python, Node (npm) rare commands you may be need some where
 > ```terminal
 > pip install --upgrade pip setuptools
 > ```  
->> upgrade setup too
+>> upgrade setup tool
 
 > ```terminal
 > pip freeze | xargs pip uninstall -y
