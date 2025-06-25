@@ -14,6 +14,9 @@ useful terminal, Python, Node (npm) rare commands you may be need some where
 > ```terminal
 > pip freeze | xargs pip uninstall -y
 > ```
+> ```
+> python -m venv --clear
+> ```
 >> clean virtual env without deleting it
 
 ---
