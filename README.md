@@ -1,4 +1,4 @@
-# COMMANDS
+#                                 COMMANDS
 useful terminal, Python, Node (npm) rare commands you may be need some where
 
 ---
