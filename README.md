@@ -6,25 +6,28 @@ useful terminal, Python, Node (npm) rare commands you may be need some where
 ---
 # PYTHON
 
-> ```terminal
-> pip install --upgrade pip setuptools
-> ```  
->> upgrade setup tool
+installation
+ ```terminal
+pip install --upgrade pip setuptools
+```  
 
-> ```terminal
-> pip freeze | xargs pip uninstall -y
-> ```
-> ```
-> python -m venv --clear
-> ```
->> clean virtual env without deleting it
+ ```terminal
+ pip freeze | xargs pip uninstall -y
+ ```
+ ```
+ python -m venv --clear
+```
+clean virtual env without deleting it
 
 ---
 # NODE and NPM
 
 # CUDA
-> to remove the ambiguous metapackage
->> `sudo apt-get autoremove cuda`
+* To remove the ambiguous metapackage
+`sudo apt-get autoremove cuda`
+* Install specific version
+`sudo apt-get install -y cuda-toolkit-12-1`
+
 <details>
 <summary>👉 Click here to see the Advanced Configuration Details</summary>
 
