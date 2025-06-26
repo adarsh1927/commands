@@ -7,7 +7,7 @@ useful terminal, Python, Node (npm) rare commands you may be need some where
 # PYTHON
 
 ## PIP/Virtual Environment
-* Upgarde setup tool
+### Upgarde setup tool
  ```terminal
 pip install --upgrade pip setuptools
 ```  
@@ -15,7 +15,7 @@ pip install --upgrade pip setuptools
  ```terminal
  pip freeze | xargs pip uninstall -y
  ```
- ```
+ ```terminal
  python -m venv --clear
 ```
 
