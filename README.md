@@ -21,3 +21,7 @@ useful terminal, Python, Node (npm) rare commands you may be need some where
 
 ---
 # NODE and NPM
+
+# CUDA
+> to remove the ambiguous metapackage
+>> `sudo apt-get autoremove cuda`
