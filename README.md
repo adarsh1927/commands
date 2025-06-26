@@ -26,7 +26,11 @@ pip install --upgrade pip setuptools
 
 ### Life Hacks
 #### To remove the ambiguous metapackage
-`sudo apt-get autoremove cuda`
+```terminal
+sudo apt-get autoremove cuda
+```
 #### Install specific version
-`sudo apt-get install -y cuda-toolkit-12-1`
+```terminal
+sudo apt-get install -y cuda-toolkit-12-1
+```
 
