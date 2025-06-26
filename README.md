@@ -23,9 +23,11 @@ pip install --upgrade pip setuptools
 # NODE and NPM
 
 # CUDA
-* To remove the ambiguous metapackage
+
+## Life Hacks
+### To remove the ambiguous metapackage
 `sudo apt-get autoremove cuda`
-* Install specific version
+### Install specific version
 `sudo apt-get install -y cuda-toolkit-12-1`
 
 <details>
